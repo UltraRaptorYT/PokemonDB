@@ -588,7 +588,9 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 481,1,4811,Mesprit,Psychic,,Pink,Levitate,,,4,1,0,0.3,0.3,80,105,105,105,105,80,580
 482,1,4821,Azelf,Psychic,,Blue,Levitate,,,4,1,0,0.3,0.3,75,125,70,125,70,115,580
 483,1,4831,Dialga,Steel,Dragon,White,Pressure,,Telepathy,4,1,0,5.4,683,100,120,120,150,100,90,680
+483,2,4832,Dialga,Steel,Dragon,White,Pressure,,Telepathy,8,1,0,7.0,850,100,100,120,150,120,90,680
 484,1,4841,Palkia,Water,Dragon,Purple,Pressure,,Telepathy,4,1,0,4.2,336,90,120,100,150,120,100,680
+484,2,4842,Palkia,Water,Dragon,Purple,Pressure,,Telepathy,8,1,0,6.3,660,90,100,100,150,120,120,680
 485,1,4851,Heatran,Fire,Steel,Brown,Flash Fire,,Flame Body,4,1,0,1.7,430,91,90,106,130,106,77,600
 486,1,4861,Regigigas,Normal,,White,Slow Start,,,4,1,0,3.7,420,110,160,110,80,110,100,670
 487,1,4871,Giratina,Ghost,Dragon,Black,Pressure,,Telepathy,4,1,0,4.5,750,150,100,120,100,120,90,680
@@ -1076,7 +1078,7 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 903,1,9031,Sneasler,Fighting,Poison,Blue,Pressure,Unburden,Poison Touch,8,0,0,1.3,43,80,130,60,40,80,120,510
 904,1,9041,Overqwil,Dark,Poison,Black,Poison Point,Swift Swim,Intimidate,8,0,0,2.5,60.5,85,115,95,65,65,85,510
 905,1,9051,Enamorus,Fairy,Flying,Pink,Cute Charm,,Contrary,8,1,0,1.6,48,74,115,70,135,80,106,580
-905,2,9052,Enamorus,Fairy,Flying,Pink,Cute Charm,,Overcoat,8,1,0,1.6,48,74,115,110,135,100,46,580
+905,2,9052,Enamorus,Fairy,Flying,Pink,Overcoat,,,8,1,0,1.6,48,74,115,110,135,100,46,580
 906,1,9061,Sprigatito,Grass,,Green,Overgrow,,Protean,9,0,0,0.4,4.1,40,61,54,45,45,65,310
 907,1,9071,Floragato,Grass,,Green,Overgrow,,Protean,9,0,0,0.9,12.2,61,80,63,60,63,83,410
 908,1,9081,Meowscarada,Grass,Dark,Green,Overgrow,,Protean,9,0,0,1.5,31.2,76,110,70,81,70,123,530
@@ -1140,6 +1142,7 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 962,1,9621,Bombirdier,Flying,Dark,White,Big Pecks,Keen Eye,Rocky Payload,9,0,0,1.5,42.9,70,103,85,60,85,82,485
 963,1,9631,Finizen,Water,,Blue,Water Veil,,,9,0,0,1.3,60.2,70,45,40,45,40,75,315
 964,1,9641,Palafin,Water,,Blue,Zero to Hero,,,9,0,0,1.3,60.2,100,70,72,53,62,100,457
+964,2,9642,Palafin,Water,,Blue,Zero to Hero,,,9,0,0,1.8,97.4,100,160,97,106,87,100,650
 965,1,9651,Varoom,Steel,Poison,Gray,Overcoat,,Slow Start,9,0,0,1,35,45,70,63,30,45,47,300
 966,1,9661,Revavroom,Steel,Poison,Gray,Overcoat,,Filter,9,0,0,1.8,120,80,119,90,54,67,90,500
 967,1,9671,Cyclizar,Dragon,Normal,Green,Shed Skin,,Regenerator,9,0,0,1.6,63,70,95,65,85,65,121,501
@@ -1179,13 +1182,13 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 999,1,9991,Gimmighoul,Ghost,,Brown,Rattled,,,9,0,0,0.3,5,45,30,70,75,70,10,300
 999,2,9992,Gimmighoul,Ghost,,Blue,Run Away,,,9,0,0,0.1,0.1,45,30,25,75,45,80,300
 1000,1,10001,Gholdengo,Steel,Ghost,Yellow,Good as Gold,,,9,0,0,1.2,30,87,60,95,133,91,84,550
-1001,1,10011,Wo-Chien,Dark,Grass,Brown,Tablets of Ruin,,,9,0,0,1.5,74.2,85,90,100,100,135,70,580
-1002,1,10021,Chien-Pao,Dark,Ice,White,Sword of Ruin,,,9,0,0,1.9,152.2,80,130,80,90,65,135,580
-1003,1,10031,Ting-Lu,Dark,Ground,Brown,Vessel of Ruin,,,9,0,0,2.7,699.7,165,110,130,50,80,45,580
-1004,1,10041,Chi-Yu,Dark,Fire,Red,Beads of Ruin,,,9,0,0,0.4,4.9,55,80,80,145,120,100,580
+1001,1,10011,Wo-Chien,Dark,Grass,Brown,Tablets of Ruin,,,9,1,0,1.5,74.2,85,90,100,100,135,70,580
+1002,1,10021,Chien-Pao,Dark,Ice,White,Sword of Ruin,,,9,1,0,1.9,152.2,80,130,80,90,65,135,580
+1003,1,10031,Ting-Lu,Dark,Ground,Brown,Vessel of Ruin,,,9,1,0,2.7,699.7,165,110,130,50,80,45,580
+1004,1,10041,Chi-Yu,Dark,Fire,Red,Beads of Ruin,,,9,1,0,0.4,4.9,55,80,80,145,120,100,580
 1005,1,10051,Roaring Moon,Dragon,Dark,Green,Protosynthesis,,,9,0,0,2,380,105,139,71,55,101,119,590
 1006,1,10061,Iron Valiant,Fairy,Fighting,White,Quark Drive,,,9,0,0,1.4,35,74,130,90,120,60,116,590
-1007,1,10071,Koraidon,Fighting,Dragon,Red,Orichalcum Pulse,,,9,0,0,2.5,303,100,135,115,85,100,135,670
-1008,1,10081,Miraidon,Electric,Dragon,Blue,Hadron Engine,,,9,0,0,3.5,240,100,85,100,135,115,135,670
+1007,1,10071,Koraidon,Fighting,Dragon,Red,Orichalcum Pulse,,,9,1,0,2.5,303,100,135,115,85,100,135,670
+1008,1,10081,Miraidon,Electric,Dragon,Blue,Hadron Engine,,,9,1,0,3.5,240,100,85,100,135,115,135,670
 1009,1,10091,Walking Wake,Water,Dragon,Blue,Protosynthesis,,,9,0,0,3.5,280,99,83,91,125,83,109,590
 1010,1,10101,Iron Leaves,Grass,Psychic,Green,Quark Drive,,,9,0,0,1.5,125,90,130,88,70,108,104,590
