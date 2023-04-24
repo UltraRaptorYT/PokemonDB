@@ -168,6 +168,9 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 127,1,1271,Pinsir,Bug,,Brown,Hyper Cutter,Mold Breaker,Moxie,1,0,0,1.5,55,65,125,100,55,70,85,500
 127,2,1272,Mega Pinsir,Bug,Flying,Brown,Aerilate,,,1,0,1,1.7,59,65,155,120,65,90,105,600
 128,1,1281,Tauros,Normal,,Brown,Intimidate,Anger Point,Sheer Force,1,0,0,1.4,88.4,75,100,95,40,70,110,490
+128,2,1282,Tauros,Fighting,,Brown,Intimidate,Anger Point,Cud Chew,9,0,0,1.4,115,75,110,105,30,70,100,490
+128,3,1283,Tauros,Fighting,Fire,Brown,Intimidate,Anger Point,Cud Chew,9,0,0,1.4,85,75,110,105,30,70,100,490
+128,4,1284,Tauros,Fighting,Water,Brown,Intimidate,Anger Point,Cud Chew,9,0,0,1.4,110,75,110,105,30,70,100,490
 129,1,1291,Magikarp,Water,,Red,Swift Swim,,Rattled,1,0,0,0.9,10,20,10,55,15,20,80,200
 130,1,1301,Gyarados,Water,Flying,Blue,Intimidate,,Moxie,1,0,0,6.5,235,95,125,79,60,100,81,540
 130,2,1302,Mega Gyarados,Water,Dark,Blue,Mold Breaker,,,1,0,1,6.5,305,95,155,109,70,130,81,640
@@ -240,6 +243,7 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 192,1,1921,Sunflora,Grass,,Yellow,Chlorophyll,Solar Power,Early Bird,2,0,0,0.8,8.5,75,75,55,105,85,30,425
 193,1,1931,Yanma,Bug,Flying,Red,Speed Boost,Compound Eyes,Frisk,2,0,0,1.2,38,65,65,45,75,45,95,390
 194,1,1941,Wooper,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,0.4,8.5,55,45,45,25,25,15,210
+194,2,1942,Wooper,Poison,Ground,Blue,Poison Point,Water Absorb,Unaware,9,0,0,0.4,11,55,45,45,25,25,15,210
 195,1,1951,Quagsire,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,1.4,75,95,85,85,65,65,35,430
 196,1,1961,Espeon,Psychic,,Purple,Synchronize,,Magic Bounce,2,0,0,0.9,26.5,65,65,60,130,95,110,525
 197,1,1971,Umbreon,Dark,,Black,Synchronize,,Inner Focus,2,0,0,1,27,95,65,110,60,130,65,525
@@ -1073,3 +1077,4 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 904,1,9041,Overqwil,Dark,Poison,Black,Poison Point,Swift Swim,Intimidate,8,0,0,2.5,60.5,85,115,95,65,65,85,510
 905,1,9051,Enamorus,Fairy,Flying,Pink,Cute Charm,,Contrary,8,1,0,1.6,48,74,115,70,135,80,106,580
 905,2,9052,Enamorus,Fairy,Flying,Pink,Cute Charm,,Overcoat,8,1,0,1.6,48,74,115,110,135,100,46,580
+906,1,9061,Sprigatito,Grass,,Green,Overgrow,,Protean,9,0,0,0.4,4.1,40,61,54,45,45,65,310
