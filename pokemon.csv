@@ -1192,3 +1192,23 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 1008,1,10081,Miraidon,Electric,Dragon,Blue,Hadron Engine,,,9,1,0,3.5,240,100,85,100,135,115,135,670
 1009,1,10091,Walking Wake,Water,Dragon,Blue,Protosynthesis,,,9,0,0,3.5,280,99,83,91,125,83,109,590
 1010,1,10101,Iron Leaves,Grass,Psychic,Green,Quark Drive,,,9,0,0,1.5,125,90,130,88,70,108,104,590
+1011,1,10111,Dipplin,Grass,Dragon,Green,Supersweet Syrup,Gluttony,Sticky Hold,9,0,0,0.4,4.4,80,80,110,95,80,40,485
+1012,1,10121,Poltchageist,Grass,Ghost,Green,Hospitality,,Heatproof,9,0,0,0.1,1.1,40,45,45,74,54,50,308
+1013,1,10131,Sinistcha,Grass,Ghost,Green,Hospitality,,Heatproof,9,0,0,0.2,2.2,71,60,106,121,80,70,508
+1014,1,10141,Okidogi,Poison,Fighting,Black,Toxic Chain,,Guard Dog,9,1,0,1.8,92.2,88,128,115,58,86,80,555
+1015,1,10151,Munkidori,Poison,Psychic,Black,Toxic Chain,,Frisk,9,1,0,1.0,12.2,88,75,66,130,90,106,555
+1016,1,10161,Fezandipiti,Poison,Fairy,Black,Toxic Chain,,Technician,9,1,0,1.4,30.1,88,91,82,70,125,99,555
+1017,1,10171,Ogerpon,Grass,,Green,Defiant,,,9,1,0,1.2,39.8,80,120,84,60,96,110,550
+1017,2,10172,Ogerpon,Grass,Water,Green,Water Absorb,,,9,1,0,1.2,39.8,80,120,84,60,96,110,550
+1017,3,10173,Ogerpon,Grass,Fire,Green,Mold Breaker,,,9,1,0,1.2,39.8,80,120,84,60,96,110,550
+1017,4,10174,Ogerpon,Grass,Rock,Green,Sturdy,,,9,1,0,1.2,39.8,80,120,84,60,96,110,550
+1018,1,10181,Archaludon,Steel,Dragon,White,Stamina,Sturdy,Stalwart,9,0,0,2.0,60.0,90,105,130,125,65,85,600
+1019,1,10191,Hydrapple,Grass,Dragon,Green,Supersweet Syrup,Regenerator,Sticky Hold,9,0,0,1.8,93.0,106,80,110,120,80,44,540
+1020,1,10201,Gouging Fire,Fire,Dragon,Brown,Protosynthesis,,,9,0,0,3.5,590.0,105,115,121,65,93,91,590
+1021,1,10211,Raging Bolt,Electric,Dragon,Yellow,Protosynthesis,,,9,0,0,5.2,480.0,125,73,91,137,89,75,590
+1022,1,10221,Iron Boulder,Rock,Psychic,Gray,Quark Drive,,,9,0,0,1.5,162.5,90,120,80,68,108,124,590
+1023,1,10231,Iron Crown,Steel,Psychic,Blue,Quark Drive,,,9,0,0,1.6,156.0,90,72,100,122,108,98,590
+1024,1,10241,Terapagos,Normal,,Blue,Tera Shift,,,9,1,0,0.2,6.5,90,65,85,65,85,60,450
+1024,2,10242,Terapagos,Normal,,Blue,Tera Shell,,,9,1,0,0.3,16.0,95,95,110,105,110,85,600
+1024,3,10243,Terapagos,Normal,,Blue,Teraform Zero,,,9,1,0,1.7,77.0,160,105,110,130,110,85,700
+1025,1,10251,Pecharunt,Poison,Ghost,Purple,Poison Puppeteer,,,9,1,0,0.3,0.3,88,88,160,88,88,88,600
